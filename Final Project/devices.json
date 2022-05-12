@@ -1,0 +1,1 @@
+{"devices": [{"hostname": "dist-sw01", "mgmtIP": "10.10.20.177", "type": "NXOS"}, {"hostname": "dist-sw02", "mgmtIP": "10.10.20.178", "type": "NXOS"}, {"hostname": "dist-rtr01", "mgmtIP": "10.10.20.175", "type": "IOSXE"}, {"hostname": "dist-rtr02", "mgmtIP": "10.10.20.176", "type": "IOSXE"}]}
